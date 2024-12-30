@@ -2,27 +2,27 @@ export const stickerLinks = [
   {
     id: 1,
     title: "Новые",
-    href: "/new",
+    link: "new",
   },
   {
     id: 2,
     title: "Популярные",
-    href: "/popular",
+    link: "popular",
   },
   {
     id: 3,
     title: "Анимированные",
-    href: "/animated",
+    link: "animated",
   },
   {
     id: 4,
     title: "Стили",
-    href: "/style",
+    link: "style",
   },
   {
     id: 5,
     title: "Бесплатные",
-    href: "/free",
+    link: "free",
   },
 ];
 

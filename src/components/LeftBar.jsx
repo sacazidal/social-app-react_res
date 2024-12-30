@@ -1,6 +1,6 @@
 const LeftBar = () => {
   // Левая часть
-  return <div>LeftBar</div>;
+  return <div className="h-screen">LeftBar</div>;
 };
 
 export default LeftBar;
